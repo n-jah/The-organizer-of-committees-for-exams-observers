@@ -1,0 +1,16 @@
+Day : 88	 Number Of Committees : 4
+	committe 1
+Mohamed Sami Ahmed
+Mohamed Nasr El-Din
+Mohamed Mohamed Helmy
+	committe 2
+Mohamed Sherif Zeidan
+Mustafa Ibrahim Al-Dardiri
+Ahmed Rashad Lashin
+	committe 3
+Ahmed Fouad Ahmed
+Ammar Yasser Al-Junaidi
+Mohamed Youssef Fawi
+	committe 4Ahmed Gamal Sobhi
+Abdullah Muhammad Zahran
+Badawi Jamal Haikal

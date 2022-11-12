@@ -1,0 +1,14 @@
+committee 1  jsvs  Date: 1/1 sun day
+Invigilator:
+	1-Mohamed Nabil Ramadan
+	2-Mohamed Talaat Hassan
+Supervisor:
+	. alqzar
+
+committee 2  c++  Date: 2/2 
+Invigilator:
+	1-elv 1
+	2-elv 2
+Supervisor:
+	.2
+
